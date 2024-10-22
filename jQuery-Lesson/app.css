@@ -1,0 +1,21 @@
+
+.box11{
+  background-color: #FF5733; /* 明るいオレンジ色 */
+  height: 200px;
+  width: 200px;
+  border-radius: 15px; /* 角を丸くする */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* シャドウを追加 */
+  transition: transform 0.3s, box-shadow 0.3s; /* アニメーション効果 */
+  display: flex; /* 中央揃えにするためにフレックスボックスを使用 */
+  justify-content: center; /* 横方向の中央揃え */
+  align-items: center; /* 縦方向の中央揃え */
+  font-size: 24px; /* テキストのサイズ */
+  color: white; /* テキストの色 */
+  text-align: center; /* テキストを中央揃え */
+}
+
+
+
+.red {
+  color: red; /* 赤に変更するクラス */
+}
